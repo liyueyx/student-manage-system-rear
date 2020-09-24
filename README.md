@@ -51,22 +51,22 @@
 
 #### 三、源码获取 
 - 前端源码地址    
-https://github.com/Negen9527/student-manage-system-front  
+https://github.com/liyueyx/student-manage-system-front  
 
 - 后台源码地址  
-https://github.com/Negen9527/student-manage-system-rear  
+https://github.com/liyueyx/student-manage-system-rear  
 
 
 #### 四、运行代码  
 - 前端  
-1、git clone https://github.com/Negen9527/student-manage-system-front.git  
+1、git clone https://github.com/liyueyx/student-manage-system-front.git  
 2、cd student-manage-system-front  
 3、npm install  
 4、npm run dev  
 5、浏览器访问 http://localhost:9528  
 
 - 后台  
-1、git clone https://github.com/Negen9527/student-manage-system-rear.git  
+1、git clone https://github.com/liyueyx/student-manage-system-rear.git  
 2、导入idea 等待maven依赖下载完成  
 3、创建数据库 db_stu_man_sys  
 4、修改项目配置文件中的数据库连接 账号、密码等相关配置  
